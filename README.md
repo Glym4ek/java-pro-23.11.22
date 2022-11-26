@@ -1,9 +1,11 @@
 # java-pro-23.11.22
 
-# Learn the Java language
+### What do I expect from learning in this group?
 
-# Learn to work with OOP
+* Learn the Java language
 
-# Gain knowledge and skills to create Java applications
+* Learn to work with OOP
 
-# Learn to apply a set of technologies included in the standard JEE stack and a range of related technologies
+* Gain knowledge and skills to create Java applications
+
+* Learn to apply a set of technologies included in the standard JEE stack and a range of related technologies
