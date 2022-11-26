@@ -1,5 +1,3 @@
-<img src=”https://github.com/Glym4ek/java-pro-23.11.22/issues/1#issue-1465256070" alt=”my banner”>
-
 # java-pro-23.11.22
 
 ### What do I expect from learning in this group?
