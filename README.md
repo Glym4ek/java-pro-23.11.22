@@ -7,3 +7,4 @@
 * Learn to work with OOP
 
 * Gain knowledge and skills to create Java applications
+* 
