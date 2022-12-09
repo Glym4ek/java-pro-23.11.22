@@ -7,4 +7,5 @@
 * Learn to work with OOP
 
 * Gain knowledge and skills to create Java applications
-* 
+
+* Learn to apply a set of technologies included in the standard JEE stack and a range of related technologies
