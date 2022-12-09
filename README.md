@@ -7,29 +7,3 @@
 * Learn to work with OOP
 
 * Gain knowledge and skills to create Java applications
-
-* Learn to apply a set of technologies included in the standard JEE stack and a range of related technologies
-
-* Some content in dev-branch-01
-
-* Some content in dev-branch-02
-
-* More content in dev-branch-02
-
-* More content in dev-branch-01
-
-* More content in dev-branch-02
-
-* More content in dev-branch-01
-
-* More content in dev-branch-02
-
-* More content in dev-branch-01
-
-* More content in dev-branch-01
-
-* add new line
-
-* add one more line
-
-* add last one line
